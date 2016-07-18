@@ -1,4 +1,4 @@
-
+//filtr medianowy(algorytm), filtr medianowy(funkcja opencv),filtr filtr gaussowski, rozkład obrazka na RGB
 package filtry;
 
 import org.opencv.core.Core;
